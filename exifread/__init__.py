@@ -11,7 +11,7 @@ from .tags import DEFAULT_STOP_TAG
 from .utils import ord_, make_string
 from .heic import HEICExifFinder
 
-__version__ = '3.0.0'
+__version__ = '3.0.1'
 
 logger = get_logger()
 

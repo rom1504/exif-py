@@ -6,7 +6,7 @@ import exifread
 readme_file = open("README.rst", "rt").read()
 
 setup(
-    name="ExifRead",
+    name="ExifRead-nocycle",
     version=exifread.__version__,
     author="Ianaré Sévi",
     author_email="ianare@gmail.com",
